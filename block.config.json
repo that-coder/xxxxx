@@ -1,0 +1,36 @@
+{
+  "name": "xxxxx",
+  "type": "package",
+  "source": {
+    "https": "https://github.com/that-coder/xxxxx.git",
+    "ssh": "git@github.com:that-coder/xxxxx.git",
+    "branch": "block_xxxxx"
+  },
+  "dependencies": {
+    "todoInput": {
+      "directory": "todoInput"
+    },
+    "todoItem": {
+      "directory": "todoItem"
+    },
+    "todoContainer": {
+      "directory": "todoContainer"
+    },
+    "addTodo": {
+      "directory": "addTodo"
+    },
+    "listTodos": {
+      "directory": "listTodos"
+    },
+    "removeTodo": {
+      "directory": "removeTodo"
+    }
+  },
+  "blockId": "k_VouXWtsLSr6Kz7XJsG4",
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
