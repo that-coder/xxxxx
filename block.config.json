@@ -1,0 +1,22 @@
+{
+  "name": "xxxxx_todoInput",
+  "type": "ui-elements",
+  "source": {
+    "https": "https://github.com/that-coder/xxxxx.git",
+    "ssh": "git@github.com:that-coder/xxxxx.git",
+    "branch": "block_xxxxx_todoInput"
+  },
+  "language": "js",
+  "start": "npx webpack-dev-server",
+  "build": "npx webpack",
+  "postPull": "npm i",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "blockId": "xCG5R29RKX5ucLzOYPja4",
+  "isPublic": true,
+  "repoType": "mono",
+  "parentBlockIDs": [
+    "k_VouXWtsLSr6Kz7XJsG4"
+  ]
+}
